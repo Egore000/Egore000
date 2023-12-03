@@ -11,6 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" height=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" height=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" height=40 width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg", title="Git" alt="Git", height=40, width=40>
 </div>
 
 ### Пройденные курсы и стажировки
@@ -29,19 +30,19 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </div>
 
-<!--
+
 ### GitHub статистика
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Egore000y&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Egore000&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Egore000&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
--->
+
 
 <!--
 ### Оглавление
