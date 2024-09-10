@@ -6,11 +6,11 @@
 </body>
 </html>
 
-### :star: About me
+### 🌟 About me ⚡
 
 I'm a Backend Python :snake: Developer from Russia
 
-### :wrench: Technologies
+### 🛠️ Technologies 🔧
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height=60 width=60>
@@ -21,7 +21,7 @@ I'm a Backend Python :snake: Developer from Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg", title="Redis" alt="Redis", height=60, width=60>
 </div>
 
-### :phone: Links
+### ☎️ Links 📞
 
 <div id='connection'>
   <a href="https://vk.com/egore0000">
@@ -31,7 +31,7 @@ I'm a Backend Python :snake: Developer from Russia
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </div>
 
-### :fire: My stats
+### :fire: My stats 🎯
 
 <table>
   <tr>
@@ -44,6 +44,6 @@ I'm a Backend Python :snake: Developer from Russia
   </tr>
 </table>
 
-### :trophy: Trophies
+### :trophy: Trophies 🥇
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Egore000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
