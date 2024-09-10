@@ -8,7 +8,7 @@
 
 ### :star: About me
 
-I am a Backend Python :snake: Developer from Russia
+I'm a Backend Python :snake: Developer from Russia
 
 ### :wrench: Technologies
 
