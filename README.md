@@ -43,3 +43,7 @@ I'm a Backend Python :snake: Developer from Russia
     </td>
   </tr>
 </table>
+
+### :trophy: Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Egore000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
