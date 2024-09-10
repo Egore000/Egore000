@@ -1,27 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%95%D0%B3%D0%BE%D1%80!)](https://git.io/typing-svg)
----
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Header</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-### О себе
-Я являюсь студентом Физического факультета Томского государственного университета. При обучении здесь каждый день приходится собирать🔎, обрабатывать:computer: и анализировать:bar_chart: множество данных, поэтому программирование и аналитика тесно связаны с моей жизнью. Свой путь в 👨‍💻<b>IT</b> я начал
-в 2019 году, начав изучать программирование для ЕГЭ по информатике, а позже поступив на IT-специальность в университет.
-
-### Технологии
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" height=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" height=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" height=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg", title="Git" alt="Git", height=40, width=40>
+<div class="header">
+    <h1 align="center">:rocket: Hi there :wave:</h1>
 </div>
 
-### Пройденные курсы и стажировки
-| Курсы                                              | Дата              |
-| -------------------------------------------------  | :---------------: |
-| Стажировка в Центре прикладного анализа данных ТГУ | 11/2023 - 12/2023 |
-| Цифровые кафедры ТГУ: Аналитика данных             | 09/2023 - 07/2023 |
-| Sololearn.com/Python for Data Science              | 05/2021 - 06/2021 |
----
-### Связь
+</body>
+</html>
+
+### :star: About me
+
+I am a Backend Python:snake: Developer from Russia
+
+### :wrench: Technologies
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height=40 width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height=40 width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" height=40 width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" height=40 width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg", title="Git" alt="Git", height=40, width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg", title="Redis" alt="Redis", height=40, width=40>
+</div>
+
+### :phone: Links
+
 <div id='connection'>
   <a href="https://vk.com/egore0000">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
@@ -30,8 +39,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </div>
 
+### :fire: My stats
 
-### GitHub статистика
 <table>
   <tr>
     <td>
@@ -42,12 +51,3 @@
     </td>
   </tr>
 </table>
-
-
-<!--
-### Оглавление
-  - [Введение] (#about)
-  - [Проекты] (#projects)
-  - [Учебные проекты] (#study-projects)
-  - [Сертификаты] (#certificates))
--->
