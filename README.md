@@ -47,3 +47,7 @@ I'm a Backend Python :snake: Developer from Russia
 ### :trophy: Trophies 🥇
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Egore000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🥇 LeetCode 🏆
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={egor390590-3})
